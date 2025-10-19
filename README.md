@@ -4,7 +4,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E0234E&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%7C+FastAPI;OpenAPI+Architect+%7C+NestJS+%7C+TypeScript;Passionate+about+Clean+and+Scalable+Code+🧠" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?](https://readme-typing-svg.demolab.com)
+font=Fira+Code&pause=1000&color=E0234E&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%7C+FastAPI;OpenAPI+Architect+%7C+NestJS+%7C+TypeScript;Passionate+about+Clean+and+Scalable+Code+🧠" alt="Typing SVG" />
 </p>
 
 ---
@@ -80,7 +81,7 @@ Developed with **FastAPI** and **OpenAPI 3.1**, supporting donor registration, a
 ---
 
 ### 💡 Quote
-> “Turning ideas into code, one commit at a time.” — *Rodrigo Elpídio*
+> “Turning ideas into code, one commit at a time.” — *Rodrigo Da Silva*
 
 ---
 
