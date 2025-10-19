@@ -1,61 +1,87 @@
-# 👋 Hi there, I'm Rodh 
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Rodrigo Elpídio</h1>
+<h3 align="center">Building scalable backend systems with FastAPI, NestJS & OpenAPI</h3>
 
-🎓 A student passionate about technology and software development.  
-Currently learning **backend development** with **FastAPI**, **NestJS**, and **OpenAPI Generator**, focusing on scalable and modern applications.
-
----
-
-### 🚀 Featured Projects
-- 🩸 [AVIS Donazioni API](https://github.com/relpidio/avis-donazioni-api)  
-  A backend for managing blood donations in Italy, inspired by the **NHS GiveBlood** app (UK).  
-  Built with **FastAPI** and **OpenAPI 3.1**, supporting donor registration, appointments, and notifications.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E0234E&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%7C+FastAPI;OpenAPI+Architect+%7C+NestJS+%7C+TypeScript;Passionate+about+Clean+and+Scalable+Code+🧠" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🚀 Featured Project
+🩸 **[AVIS Donazioni API](https://github.com/relpidio/avis-donazioni-api)**  
+A backend platform for managing blood donations in Italy 🇮🇹, inspired by the **NHS GiveBlood (UK)** app.  
+Developed with **FastAPI** and **OpenAPI 3.1**, supporting donor registration, appointments, and notifications.
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- Advanced **FastAPI** patterns (dependency injection, async DB)
+- **TypeORM** + PostgreSQL integration with NestJS
+- Cloud deployment with **Docker Compose** & **Render / AWS**
+- Testing and CI/CD workflows using **GitHub Actions**
+
+---
+
+### 🎯 Next Goals
+- Implement an interactive donor dashboard with analytics  
+- Build a unified API gateway (FastAPI + NestJS hybrid)  
+- Deploy a production-ready **AVIS Donazioni Web App**  
+- Contribute to open-source FastAPI extensions  
 
 ---
 
 ### 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rodrigo-elp%C3%ADdio)
-- 📧 **rodrigo.elpidio@gmail.com**
-- 🐙 GitHub: [@relpidio](https://github.com/relpidio)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-elp%C3%ADdio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rodrigo.elpidio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/relpidio">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=relpidio&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relpidio&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=relpidio&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relpidio&layout=compact&theme=radical" height="160px" />
+</p>
 
 ---
 
-⭐ *Exploring the universe of code — one commit at a time.*
+### 🔥 Streak & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=relpidio&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=relpidio&theme=redical" />
+</p>
 
 ---
 
-### 🌈 Dynamic GitHub Visuals
-
-Make your GitHub profile come alive with real-time stats, streaks, and activity graphs 👇  
-
-#### 🧮 Contribution Stats  
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=relpidio&show_icons=true&theme=radical)
-
-#### 🗂️ Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relpidio&layout=compact&theme=radical)
-
-#### 🔥 Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=relpidio&theme=radical)
-
-#### 🌍 Contribution Activity Graph  
-![Rodrigo’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=relpidio&theme=redical)
+### 💡 Quote
+> “Turning ideas into code, one commit at a time.” — *Rodrigo Elpídio*
 
 ---
 
-⭐ *“Turning ideas into code, one commit at a time.”*
-
+<p align="center">⭐ <i>Exploring the universe of code — one commit at a time.</i> ⭐</p>
