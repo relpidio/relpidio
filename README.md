@@ -36,3 +36,26 @@ Currently learning **backend development** with **FastAPI**, **NestJS**, and **O
 ---
 
 ⭐ *Exploring the universe of code — one commit at a time.*
+
+---
+
+### 🌈 Dynamic GitHub Visuals
+
+Make your GitHub profile come alive with real-time stats, streaks, and activity graphs 👇  
+
+#### 🧮 Contribution Stats  
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=relpidio&show_icons=true&theme=radical)
+
+#### 🗂️ Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relpidio&layout=compact&theme=radical)
+
+#### 🔥 Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=relpidio&theme=radical)
+
+#### 🌍 Contribution Activity Graph  
+![Rodrigo’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=relpidio&theme=redical)
+
+---
+
+⭐ *“Turning ideas into code, one commit at a time.”*
+
