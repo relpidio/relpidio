@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Rodrigo Elpídio</h1>
+<h1 align="center">Hi 👋, I'm Rodh</h1>
 <h3 align="center">Building scalable backend systems with FastAPI, NestJS & OpenAPI</h3>
 
 <!-- Typing Animation -->
